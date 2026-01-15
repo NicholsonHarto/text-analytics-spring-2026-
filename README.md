@@ -1,2 +1,7 @@
-# text-analytics-spring-2026-
- “Text Mining &amp; Social Media Analytics - LMU Spring 2026” 
+# Text Analytics Spring 2026
+**Student:** Nicholson Hartowidjojo
+**University:** Loyola Marymount University
+**Course:** Text Mining & Social Media Analytics
+**Semester:** Spring 2026
+**Instructor:** Ace Vo
+
